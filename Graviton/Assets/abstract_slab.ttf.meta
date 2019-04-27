@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6988f387902d88846833d1e475a6d538
+timeCreated: 1486797028
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Abstract Slab
+  fontNames:
+  - Abstract Slab
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
